@@ -21,6 +21,24 @@ It enables businesses or individuals to track financial trends, expense categori
 * Total Expense (Page 2): ₹29.59M
 * Expense Growth YoY: 12.75%
 
-# 📊 Dashboard Features
-## 1. Income vs Expense Analysis
-A comparison of monthly income and expenses to track financial balance and spending patterns.
+# 💡 Business Insights
+* Nearly 49% of total income is saved, indicating strong financial efficiency.
+* Rent is the highest expense category, making it a major cost driver.
+* Expenses show seasonal fluctuations across months.
+* Operational and marketing costs contribute significantly to total expenses
+* Negative YoY expense growth (-12.75%) indicates cost reduction efforts
+
+# 🚀 Skills Demonstrated
+* Financial Data analysis
+* Data Cleaning & Transformation
+* DAX Calculations
+* Dashboard Design
+* Business Insight Generation
+
+# 📌 Project Pages
+Page 1: Financial Overview
+Page 2: Expense Analysis
+
+# 📷 Dashboard Preview
+
+
