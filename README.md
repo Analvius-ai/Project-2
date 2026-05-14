@@ -40,5 +40,10 @@ Page 1: Financial Overview
 Page 2: Expense Analysis
 
 # 📷 Dashboard Preview
+## Page 1: Financial Overview
+<img width="1350" height="748" alt="Screenshot 2026-04-06 084827" src="https://github.com/user-attachments/assets/f670c9a3-0bef-4944-96a2-af0ff7864577" />
+## Page 2: Expense Analysis
+<img width="1378" height="767" alt="Screenshot 2026-04-06 084846" src="https://github.com/user-attachments/assets/dd97578d-3e59-454a-b097-9ec2e392f64d" />
+
 
 
